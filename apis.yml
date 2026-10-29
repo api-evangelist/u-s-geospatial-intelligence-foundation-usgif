@@ -1,0 +1,23 @@
+aid: u-s-geospatial-intelligence-foundation-usgif
+name: U.S. Geospatial Intelligence Foundation (USGIF)
+description: 'U.S. Geospatial Intelligence Foundation (USGIF) is a company surfaced via the API Evangelist
+  harvest backlog (source: vc-portfolio) and added to the network as a stub for full-pipeline profiling.'
+url: https://artifacts.apis.io/u-s-geospatial-intelligence-foundation-usgif/apis.yml
+x-type: company
+x-source: harvest:vc-portfolio
+x-tier: stub
+x-tier-reason: harvest
+specificationVersion: '0.20'
+created: '2026-10-28'
+modified: '2026-10-28'
+tags:
+- Company
+apis: []
+maintainers:
+- FN: Kin Lane
+  email: kin@apievangelist.com
+- FN: APIs.json
+  email: info@apis.io
+common:
+- type: Website
+  url: http://www.usgif.org
